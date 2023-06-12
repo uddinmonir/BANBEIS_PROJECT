@@ -35,17 +35,17 @@ Duaration: 3 years (Started from November 2019)</br>
     <td style="text-align: center; padding: 10px;">
       <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/1660824342_01711132272-150x150.jpg" alt="Image 1" width="300" height="300">
       <br>
-      <span style="font-style: italic; font-size: 14px;">Dr. Mohammad Monir Uddin</span>
+      <span style="font-style: italic; font-size: 14px;">Kife Iatasar Bin Iqbal</span>
     </td>
     <td style="text-align: center; padding: 10px;">
       <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/1-s2.0-S1877750321001472-fx4.jpg" alt="Image 2" width="300" height="300">
       <br>
-      <span style="font-style: italic; font-size: 14px;">Prof Dr. Forhad Uddin</span>
+      <span style="font-style: italic; font-size: 14px;">Asib Mostakim</span>
     </td>
     <td style="text-align: center; padding: 10px;">
       <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/Tanzim.jpg" alt="Image 2" width="300" height="300">
       <br>
-      <span style="font-style: italic; font-size: 14px;">Prof Dr. Forhad Uddin</span>
+      <span style="font-style: italic; font-size: 14px;">Md. Tanzim Hosain</span>
     </td>
   </tr>
 </table>
