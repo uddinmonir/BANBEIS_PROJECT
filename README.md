@@ -34,3 +34,5 @@ submitting papers and books for publications.
   <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_142633-scaled.jpg" width="300"/>
   <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_142755-scaled.jpg" width="300"/>
 </p>
+
+### Supervisor
