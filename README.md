@@ -50,7 +50,26 @@ submitting papers and books for publications.
     </td>
   </tr>
 </table>
-
+## Researcher
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/1660824342_01711132272-150x150.jpg" alt="Image 1" width="300" height="300">
+      <br>
+      <span style="font-style: italic; font-size: 14px;">Dr. Mohammad Monir Uddin</span>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/1-s2.0-S1877750321001472-fx4.jpg" alt="Image 2" width="300" height="300">
+      <br>
+      <span style="font-style: italic; font-size: 14px;">Prof Dr. Forhad Uddin</span>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/Tanzim.jpg" alt="Image 2" width="300" height="300">
+      <br>
+      <span style="font-style: italic; font-size: 14px;">Prof Dr. Forhad Uddin</span>
+    </td>
+  </tr>
+</table>
 
 
 
