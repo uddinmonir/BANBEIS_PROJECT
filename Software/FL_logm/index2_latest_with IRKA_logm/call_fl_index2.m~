@@ -1,0 +1,40 @@
+clear ; 
+clc; 
+%close all
+%% This script test frequency-limited 
+%% H2 optimal model reduction generalized system
+%%
+load('/home/monir/scratch/software/data/1st_order/dae/index2/NSE_unstable/NSE_unstable_1087.mat');
+% load('/home/monir/scratch/software/data/1st_order/dae/index2/stokes/stokes.mat')
+% load('/home/monir/scratch/software/data/1st_order/dae/index2/NSE_unstable/NSE3.mat');
+% load('/home/monir/scratch/software/data/kiafe/flow_sub_new.mat');
+I=speye(size(A1,1));
+PI=I-A2*((A2'*(E1\A2))\(A2'/E1));
+At=PI*A1;Et=E1;Bt=PI*B1;Ct=C1;
+r = 50; 
+maxiter = 100; 
+tol = 1e-10;
+%% IRKA for initial ROM
+%--------------------------------
+%[Ar, Br, Cr] = IRKA(Et,At,Bt,Ct,r,maxiter,tol);
+[Ar1,Br1,Cr1] = IRKA_index2_nonsymmetric(E1,A1,A2,B1,C1,r,maxiter,tol);
+%% TSIA for frequency unrestricted
+%----------------------------------------
+%[Ar,Br,Cr] = gen_TSIA(Et,At,Bt,Ct,Ar,Br,Cr,maxiter,tol);
+%[Ar1,Br1,Cr1,V,W] = index2_TSIA(E1,A1,A2,B1,C1,Ar,Br,Cr,maxiter,tol);
+%% Frequency range [w1,w2]
+%----------------------------------
+r1=100;
+w1=2; 
+w2=4;
+[Ar2, Br2, Cr2] = index2_Fl_TSIA(E1,A1,A2,B1,C1,Ar1,Br1,Cr1,r1,maxiter,tol,w1,w2);
+%[Ar2,Br2,Cr2] = index2_Fl_irka(E1,A1,A2,B1,C1,Ar1,Br1,Cr1,r1,maxiter,tol,w1,w2);
+%%
+low_point =1;      %Lower point of the plotting domain
+up_point = 6;       % Higher point of the plotting domain
+tot_point = 100;   
+Er1= speye(size(Ar1,1));
+Er2= Er1;
+%% Ploat transfer function
+tic;[space,tf] =tf_plotex(E1,A1,A2,B1,C1,Er1,Ar1,Br1,Cr1,Er2,Ar2,Br2,Cr2,low_point,up_point,tot_point);toc
+%--------------------------------
