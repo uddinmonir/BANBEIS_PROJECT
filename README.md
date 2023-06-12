@@ -36,3 +36,8 @@ submitting papers and books for publications.
 </p>
 
 ### Supervisor
+<figure style="text-align: center;">
+  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image Description" style="width: 300px; height: auto;">
+  <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Dr. Mohammad Monir Uddin</figcaption>
+</figure>
+
