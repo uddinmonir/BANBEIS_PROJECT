@@ -27,7 +27,7 @@ submitting papers and books for publications.
   </li>
 </ul>
 
-### Project Lab
+## Project Lab
 <p float="left">
   <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_131005-scaled.jpg" width="300"/> 
   <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_142616-scaled.jpg" width="300"/>
@@ -35,12 +35,15 @@ submitting papers and books for publications.
   <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_142755-scaled.jpg" width="300"/>
 </p>
 
-### Supervisor
-<figure style="text-align: center;">
-  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image Description" style="width: 300px; height: auto;">
-  <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Dr. Mohammad Monir Uddin</figcaption>
-  
-  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image Description" style="width: 300px; height: auto;">
-  <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Prof Dr. Forhad Uddin</figcaption>
-</figure>
+## Supervisor
+<div style="display: flex;">
+  <figure style="flex: 1; text-align: center;">
+    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" style="width: 100%; height: auto;">
+    <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Dr. Mohammad Monir Uddin</figcaption>
+  </figure>
+  <figure style="flex: 1; text-align: center;">
+    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image 2" style="width: 100%; height: auto;">
+    <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Prof Dr. Forhad Uddin</figcaption>
+  </figure>
+</div>
 
