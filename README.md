@@ -66,7 +66,10 @@ We have planned to complete the project as the following steps
   <li>3rd year: Numerical experiments with the rigorous data in a high performance computer lab and preparing and submitting papers and book for publications.</li>
 </ul>
 
-## Outcomes
+## Simulation & Results
+
+
+## Publications
 <b>Masters Thesis (2)</b>
 <ul>
   <li>Kife Intasar Bin Iqbal, Error Minimization of Reduced
