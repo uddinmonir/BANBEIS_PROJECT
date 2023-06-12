@@ -29,7 +29,7 @@ submitting papers and books for publications.
 
 ### Project Lab
 <p float="left">
-  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_131005-scaled.jpg" width="425"/>
-  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_131005-scaled.jpg" width="425"/> 
-  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_131005-scaled.jpg" width="425"/>
+  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_131005-scaled.jpg" width="300"/>
+  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_131005-scaled.jpg" width="300"/> 
+  <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/IMG_20211127_131005-scaled.jpg" width="300"/>
 </p>
