@@ -59,5 +59,11 @@ Model order reduction (MOR) is considered as an indispensable subject in the dif
   <li>The researches will be benefited tremendously. The project will help them to acquire knowledge in Control theory, Optimizations, Scientific computing, Mathematical Algorithms and Software. They can see how to apply the Mathematical knowledge in the real life applications. Moreover, if necessary the obtained results may help them to obtain PhD or MPhil Degrees.</li>
 </ul>
 
+We have planned to complete the project as the following steps
+<ul>
+  <li>1st year: Literature Review, understanding the problems and developing some fundamental algorithms and software.</li>
+  <li>2nd year: Developing algorithms and software for the model reduction of model reduction of large-scale descriptor systems, some numerical experiments and pressing in conferences.</li>
+  <li>3rd year: Numerical experiments with the rigorous data in a high performance computer lab and preparing and submitting papers and book for publications.</li>
+</ul>
 
 
