@@ -67,7 +67,7 @@ We have planned to complete the project as the following steps
 </ul>
 
 ## Outcomes
-Masters Thesis (2)
+<b>Masters Thesis (2)</b>
 <ul>
   <li>Kife Intasar Bin Iqbal, Error Minimization of Reduced
 Models of Large-Scale Systems by Solving Time and
@@ -79,7 +79,7 @@ Sparse Index-2 Descriptor System, Master’s thesis,
 BUET, Dhaka, Bangladesh, 2022. <a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/6160">http://lib.buet.ac.bd:8080/xmlui/handle/123456789/6160</a></li>
 </ul>
 
-Journal Publications (3)
+<b>Journal Publications (3)</b>
 <ul>
   <li>Md. Motlubar Rahman, M. M. Uddin, L. S. Andallah, Mahtab Uddin, Tangential
 interpolatory projections for a class of second-order index-1 descriptor systems and
@@ -93,7 +93,7 @@ time-limited model reduction of index-2 DAEs with application to Blood flow thro
 carotid, Under review in Computers and Mathematics with Applications.</li>
 </ul>
 
-Conference Publications (3)
+<b>Conference Publications (3)</b>
 <ul>
   <li>Kife I. Bin Iqbal, M. M. Uddin and M. Forhad Uddin, Stability Preservation of
 Frequency-Limited Balancing Based Reduced Order Model of LargeScale Index-1 Descriptor
