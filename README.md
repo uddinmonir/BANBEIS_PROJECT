@@ -6,13 +6,25 @@ Co-Principle Investigator: Prof Dr. Farahad Uddin (BUET) (forhad@math.buet.ac.bd
 Duaration: 3 years (Started from November 2019)</br>
 
 <ul>
-  <li>Outer bullet point</li>
+  <li>Developing Mathematical Algorithms and Software for the
+model order reduction of large-scale dynamical systems</li>
+  <li>Purposes: Academic research and industrial applications</li>
   <li>
-    Inner bullet point
+    Plans: Three years long project started in July 2019 and is
+planned as follows:
     <ul>
-      <li>Nested bullet point 1</li>
-      <li>Nested bullet point 2</li>
+      <li>1st year: Literature Review, understanding the problems
+and developing some fundamental algorithms and software.</li>
+      <li>2nd year: Developing algorithms and software for the
+model reduction of model reduction of large-scale descriptor
+systems, some numerical experiments and pressing in
+conferences.</li>
+      <li>3rd year: Numerical experiments with large-scale data in a
+high-performance computer lab and preparing and
+submitting papers and books for publications.
+Dr. Mohammad Monir Uddin (monir.uddin@northsouth.edu) Project ID: MS20191055
+Developing Mathematical Algorithms and Software for MOR of Large-Scale Dynamical Systems 3 / 41
+</li>
     </ul>
   </li>
-  <li>Another outer bullet point</li>
 </ul>
