@@ -95,10 +95,27 @@ carotid, Under review in Computers and Mathematics with Applications.</li>
 
 Conference Publications (3)
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Kife I. Bin Iqbal, M. M. Uddin and M. Forhad Uddin, Stability Preservation of
+Frequency-Limited Balancing Based Reduced Order Model of LargeScale Index-1 Descriptor
+System, 11th International Conference on Electrical and Computer Engineering
+(ICECE), IEEE, Dhaka, 2020. pp. 4.
+  DOI: <a href="https://ieeexplore.ieee.org/abstract/document/9393106">https://ieeexplore.ieee.org/abstract/document/9393106</a></li>
+  <li>Kife I. Bin Iqbal, M. M. Uddin and M. Forhad Uddin , In search of frequency-limited
+low-rank Gramian factors for the balancing based model reduction of large-scale sparse
+descriptor system, In 23rd International Conference on Computer and Information
+Technology (ICCIT) (IEEE), 2020. pp. 5.
+  DOI: <a href="https://ieeexplore.ieee.org/abstract/document/9392667">https://ieeexplore.ieee.org/abstract/document/9392667</a></li>
+  <li>Kife I. Bin Iqbal, M. M. Uddin and M. Forhad Uddin , Time Restricted Balanced
+Truncation for Index-I Descriptor Systems with Non-Homogeneous Initial Condition, In 4th
+International Joint Conference on Advances in Computational Intelligence (IJCACI)
+(Springer-Nature), Dhaka, 2020. pp. 12.
+  DOI: <a href="https://link.springer.com/chapter/10.1007/978-981-16-0586-4_15">https://link.springer.com/chapter/10.1007/978-981-16-0586-4_15</a></li>
+  <li>Aaquib Javed, Md. Sayem Mahmud, Md. Takbir Alam, Md. Foysal Bin Ohab, Khandakar
+Ratul Ali, Abdullah Al Jobaer and M. M. Uddin, Pothole Detection System Using
+Region-Based Convolutional Neural Network, In 2021 IEEE 4th International Conference
+on Computer and Communication Engineering Technology (CCET), pp. 6-11. IEEE,
+2021.
+  DOI: <a href="https://doi.org/10.1109/CCET52649.2021.9544396">https://doi.org/10.1109/CCET52649.2021.9544396</a></li>
 </ul>
 
 
