@@ -49,11 +49,11 @@ submitting papers and books for publications.
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <figure style="text-align: center;">
-    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" style="width: 100%; height: auto;">
+    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" style="width: 30%; height: auto;">
     <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Caption for Image 1</figcaption>
   </figure>
   <figure style="text-align: center;">
-    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image 2" style="width: 100%; height: auto;">
+    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image 2" style="width: 30%; height: auto;">
     <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Caption for Image 2</figcaption>
   </figure>
 </div>
