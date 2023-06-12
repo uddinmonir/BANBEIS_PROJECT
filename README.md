@@ -13,13 +13,13 @@ model order reduction of large-scale dynamical systems</li>
     Plans: Three years long project started in July 2019 and is
 planned as follows:
     <ul>
-      <li>1st year: Literature Review, understanding the problems
+      <li><b>1st year:</b> Literature Review, understanding the problems
 and developing some fundamental algorithms and software.</li>
-      <li>2nd year: Developing algorithms and software for the
+      <li><b>2nd year:</b> Developing algorithms and software for the
 model reduction of model reduction of large-scale descriptor
 systems, some numerical experiments and pressing in
 conferences.</li>
-      <li>3rd year: Numerical experiments with large-scale data in a
+      <li><b>3rd year:</b> Numerical experiments with large-scale data in a
 high-performance computer lab and preparing and
 submitting papers and books for publications.
 Dr. Mohammad Monir Uddin (monir.uddin@northsouth.edu) Project ID: MS20191055
