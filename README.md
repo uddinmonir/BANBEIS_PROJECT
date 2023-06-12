@@ -68,6 +68,8 @@ We have planned to complete the project as the following steps
 
 ## Simulation & Results
 #### ASS Model
+<img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/1.PNG" width="70%"/> 
+<img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/2.PNG" width="70%"/> 
 ![Image 1](https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/1.PNG)
 ![Image 2](https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/2.PNG)
 
