@@ -67,7 +67,9 @@ We have planned to complete the project as the following steps
 </ul>
 
 ## Simulation & Results
-
+#### ASS Model
+![Image 1](https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/1.PNG)
+![Image 2](https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/2.PNG)
 
 ## Publications
 <b>Masters Thesis (2)</b>
