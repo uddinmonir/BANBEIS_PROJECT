@@ -81,9 +81,16 @@ BUET, Dhaka, Bangladesh, 2022. <a href="http://lib.buet.ac.bd:8080/xmlui/handle/
 
 Journal Publications (3)
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Md. Motlubar Rahman, M. M. Uddin, L. S. Andallah, Mahtab Uddin, Tangential
+interpolatory projections for a class of second-order index-1 descriptor systems and
+application to Mechatronics, Production Engineering, 15(1), 2021, pp. 9-19. DOI: <a href="https://doi.org/10.1007/s11740-020-00995-4">https://doi.org/10.1007/s11740-020-00995-4</a></li>
+  <li>Xin Du, Kife I. Bin Iqbal, M. M. Uddin, A. Mostakim Fony, Md. Tanzim Hossain, Mian
+Ilyas Ahmad, and Mohammad Sahadet Hossain, Computational techniques for H2 optimal
+frequency-limited model order reduction of large-scale sparse linear systems, Journal of
+Computational Science, 55, 2021, pp. 101473. DOI: <a href="https://doi.org/10.1016/j.jocs.2021.101473">https://doi.org/10.1016/j.jocs.2021.101473</a></li>
+  <li>Kife I. Bin Iqbal, Xin Du, M. M. Uddin and Md. Tanzim Hossain , Frequency and
+time-limited model reduction of index-2 DAEs with application to Blood flow through
+carotid, Under review in Computers and Mathematics with Applications.</li>
 </ul>
 
 Conference Publications (3)
