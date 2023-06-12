@@ -66,4 +66,32 @@ We have planned to complete the project as the following steps
   <li>3rd year: Numerical experiments with the rigorous data in a high performance computer lab and preparing and submitting papers and book for publications.</li>
 </ul>
 
+## Outcomes
+Masters Thesis (2)
+<ul>
+  <li>Kife Intasar Bin Iqbal, Error Minimization of Reduced
+Models of Large-Scale Systems by Solving Time and
+Frequency Restricted Lyapunov Equations, Master’s
+thesis, BUET, Dhaka, Bangladesh, 2021. <a href="http://lib.buet.ac.bd:8080/xmlui/bitstream/handle/123456789/5919/Full%20Thesis.pdf">http://lib.buet.ac.bd:8080/xmlui/bitstream/handle/123456789/5919/Full%20Thesis.pdf</a></li>
+  <li>Md. Toriqul Islam, Computational Techniques for
+Riccati-based Feedback Stabilization of Large-scale
+Sparse Index-2 Descriptor System, Master’s thesis,
+BUET, Dhaka, Bangladesh, 2022. <a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/6160">http://lib.buet.ac.bd:8080/xmlui/handle/123456789/6160</a></li>
+</ul>
+
+Journal Publications (3)
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+Conference Publications (3)
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
 
