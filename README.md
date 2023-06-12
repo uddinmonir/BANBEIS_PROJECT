@@ -38,11 +38,11 @@ submitting papers and books for publications.
 ## Supervisor
 <div style="display: flex;">
   <figure style="flex: 1; text-align: center;">
-    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" style="width: 100%; height: auto;">
+    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" style="width: 30%; height: auto;">
     <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Dr. Mohammad Monir Uddin</figcaption>
   </figure>
   <figure style="flex: 1; text-align: center;">
-    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image 2" style="width: 100%; height: auto;">
+    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image 2" style="width: 30%; height: auto;">
     <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Prof Dr. Forhad Uddin</figcaption>
   </figure>
 </div>
