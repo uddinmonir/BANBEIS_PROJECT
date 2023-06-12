@@ -36,7 +36,7 @@ submitting papers and books for publications.
 </p>
 
 ## Supervisor
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="text-align: center; padding: 10px;">
       <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" width="300" height="300">
@@ -50,6 +50,7 @@ submitting papers and books for publications.
     </td>
   </tr>
 </table>
+
 
 
 
