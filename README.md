@@ -22,8 +22,6 @@ conferences.</li>
       <li><b>3rd year:</b> Numerical experiments with large-scale data in a
 high-performance computer lab and preparing and
 submitting papers and books for publications.
-Dr. Mohammad Monir Uddin (monir.uddin@northsouth.edu) Project ID: MS20191055
-Developing Mathematical Algorithms and Software for MOR of Large-Scale Dynamical Systems 3 / 41
 </li>
     </ul>
   </li>
