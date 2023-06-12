@@ -47,16 +47,21 @@ submitting papers and books for publications.
   </figure>
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <figure style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/uddinmonir/BANBEIS_PROJECT/main/pic/monir-298x300.jpg" alt="Image 1" width="300" height="300">
-    <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Dr. Mohammad Monir Uddin</figcaption>
-  </figure>
-  <figure style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/uddinmonir/BANBEIS_PROJECT/main/pic/received_1059719594818245.jpeg" alt="Image 2" width="300" height="300">
-    <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Prof Dr. Forhad Uddin</figcaption>
-  </figure>
-</div>
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" style="width: 100%; height: auto;">
+      <br>
+      <span style="font-style: italic; font-size: 14px;">Caption for Image 1</span>
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image 2" style="width: 100%; height: auto;">
+      <br>
+      <span style="font-style: italic; font-size: 14px;">Caption for Image 2</span>
+    </td>
+  </tr>
+</table>
+
 
 
 
