@@ -1,0 +1,60 @@
+function [Ar,Br,Cr] = index2_Fl_TSIA(E1,A1,A2,B1,C1,Ar,Br,Cr,maxiter,tol,w1,w2)
+
+%% Initialization
+[~,n2] = size(A2);
+A4 = sparse(n2,n2);
+Ir=eye(size(Ar,1));
+S = eig(Ar);
+%I=speye(size(A1,1));
+I=speye(size(A1,1));
+PI=I-A2*((A2'*(E1\A2))\(A2'/E1));
+%A=PI*A1*PI';E=PI*E1*PI';B=PI*B1;C=C1*PI';
+[U,S1,V]=svd(full(PI));
+Ql=U(:,1:825)/diag(sqrt(diag(S1(1:825,1:825))));
+Qr=diag(sqrt(diag(S1(1:825,1:825))))\V(:,1:825)';
+At=PI*A1;Et=E1;Bt=PI*B1;Ct=C1;
+S_omega= (At+1i*w1*Et)\(At+1i*w2*Et);
+size(Ql)
+size(Qr)
+size(S_omega)
+%% Patrick
+S_omega = real((1i/pi)*logm(full(S_omega)));
+%% Start iteration
+for iter = 1:maxiter
+    S_old = S;
+    %% Compute projection subspaces
+    Sr_omega= real((1i/pi)*logm((Ar+1i*w1*Ir)\(Ar+1i*w2*Ir)));
+    %P = (E1*S_omega*(P(E1\B1))*Br'+(PI*B1)*Br'*Sr_omega');
+    %Q = -(S_omega'*(C1*PI')'*Cr+(C1*PI)'*Cr*Sr_omega);
+    P = E1*S_omega*(E1\B1)*Br'+B1*Br'*Sr_omega';
+    Q = -(S_omega'*C1'*Cr+C1'*Cr*Sr_omega);
+    %P = (S_omega*(Bt)*Br'+(Bt)*Br'*Sr_omega');
+    %Q = (S_omega'*C1'*Cr-C1'*Cr*Sr_omega);
+   % X = lyap(E1\A1,Ar',P);
+    %    Y = lyap((E1\A1)',Ar,Q);
+    [ X ,~] = index2_sylv(E1,A1,A2,A4,Ar',P);
+    [ Y ,~] = index2_sylv(E1',A1',A2,A4,Ar,Q);
+    [V,~] = qr(X,0);
+    [W,~] = qr(Y,0);
+    %
+      %% Compute ROM
+   
+    Er = (W'*E1*V);
+    Ar = Er\(W'*At*V);
+    Br = Er\(W'*Bt);
+    Cr = C1*V;
+    S = (eig(Ar));
+    
+    %% Check for convergence
+    err = norm(sort(S)-sort(S_old))/norm(S_old);
+    %% comment out for non-verbose mode %%
+    fprintf('FL_TSIA step %d, conv. crit. = %e \n', iter, err)
+    err_hist(iter) = err;
+    if(err < tol)
+        break
+    end
+end
+
+if (iter == maxiter && err > tol),
+    fprintf('TSIA: No convergence in %d iterations.\n', maxiter)
+end
