@@ -67,20 +67,20 @@ We have planned to complete the project as the following steps
 </ul>
 
 ## Simulation & Results
-#### ASS Model
+### ASS Model
 <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/1.PNG" width="70%"/> 
 <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/2.PNG" width="70%"/> 
 
-#### Constraint Mass-Spring-Damping systems
+### Constraint Mass-Spring-Damping systems
 <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/3.PNG" width="70%"/> 
 
-#### Blood Flow Through Carotid
+### Blood Flow Through Carotid
 <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/4.PNG" width="70%"/> 
 
-#### Piezoelectric based Tonpilz Transducer
+### Piezoelectric based Tonpilz Transducer
 <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/5.PNG" width="70%"/> 
 
-#### Power Distribution System
+### Power Distribution System
 <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/6.PNG" width="70%"/> 
 
 ## Publications
