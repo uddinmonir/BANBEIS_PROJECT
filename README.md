@@ -71,6 +71,14 @@ submitting papers and books for publications.
   </tr>
 </table>
 
+## Project Outcome
+Model order reduction (MOR) is considered as an indispensable subject in the different branches of Science, Engineering and Technology. The demand of MOR is increasing everyday in the different branches of Science, Engineering and Technology. The main goal of this research is to develop robust algorithms and software using different prominent methods of the MOR. The possible significant outcomes of this research are as follows.
+<ul>
+  <li>The algorithms and software developed from this research would be interesting and rewarding materials for further research and development in both academics and industries.</li>
+  <li>The software can be useful in Industries for the controller design, optimization and simulation of large-scale mathematical models.</li>
+  <li>With the results of this project besides several journal papers we also can publish a book.</li>
+  <li>The researches will be benefited tremendously. The project will help them to acquire knowledge in Control theory, Optimizations, Scientific computing, Mathematical Algorithms and Software. They can see how to apply the Mathematical knowledge in the real life applications. Moreover, if necessary the obtained results may help them to obtain PhD or MPhil Degrees.</li>
+</ul>
 
 
 
