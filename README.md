@@ -36,28 +36,17 @@ submitting papers and books for publications.
 </p>
 
 ## Supervisor
-<div style="display: flex;">
-  <figure style="flex: 1; text-align: center;">
-    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" width="300" height="300">
-    <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Dr. Mohammad Monir Uddin</figcaption>
-  </figure>
-  <figure style="flex: 1; text-align: center;">
-    <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image 2" width="300" height="300">
-    <figcaption style="font-style: italic; font-size: 14px; margin-top: 10px;">Prof Dr. Forhad Uddin</figcaption>
-  </figure>
-</div>
-
 <table style="border-collapse: collapse;">
   <tr>
     <td style="text-align: center; padding: 10px;">
       <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/monir-298x300.jpg" alt="Image 1" width="300" height="300">
       <br>
-      <span style="font-style: italic; font-size: 14px;">Caption for Image 1</span>
+      <span style="font-style: italic; font-size: 14px;">Dr. Mohammad Monir Uddin</span>
     </td>
     <td style="text-align: center; padding: 10px;">
       <img src="https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/received_1059719594818245.jpeg" alt="Image 2" width="300" height="300">
       <br>
-      <span style="font-style: italic; font-size: 14px;">Caption for Image 2</span>
+      <span style="font-style: italic; font-size: 14px;">Prof Dr. Forhad Uddin</span>
     </td>
   </tr>
 </table>
