@@ -1,3 +1,4 @@
+![Image 1]([https://example.com/image1.jpg](https://github.com/uddinmonir/BANBEIS_PROJECT/blob/main/pic/Banner_2-1-pmyoyhkz90l427foormznbvxuvr54ur77azh04cuc8.jpg))
 # Developing Mathematical Algorithms and Softwares for the Model Reduction of Large-Scale Dynamical Systems. (MS20191055) 
 Funded by: <a href="http://www.banbeis.gov.bd/">Bangladesh Ministry of Education (BANBEIS)</a> </br>
 Principle Investigator: Dr. Mohammad Monir Uddin (monir.uddin@northsouth.edu)</br>
